@@ -55,6 +55,7 @@ send.onclick = () => {
 pinkHeart.onclick = () => {
   choice.style.display = "none";
   text.innerText = "";
+  bottomText.innerText = "";
   document.body.style.background = "#d2b48c";
 
   centerImg.style.display = "block";
