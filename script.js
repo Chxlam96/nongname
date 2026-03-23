@@ -45,11 +45,6 @@ send.onclick = () => {
 
   choice.style.display = "block";
 
-  setTimeout(() => {
-    text.innerText = "กดๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆ";
-  }, 2000);
-};
-
 
 // เลือกหัวใจดี
 pinkHeart.onclick = () => {
